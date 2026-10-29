@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.smehnaoui.formedujour",
+    "sha256_cert_fingerprints": ["22:25:33:E9:AC:CE:14:03:BA:6B:7C:F5:04:73:6A:DB:1B:EA:C8:E5:46:09:E1:9B:F4:8C:D8:55:37:28:67:C2"]
+  }
+}]
